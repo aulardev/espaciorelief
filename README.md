@@ -22,6 +22,8 @@ Integración de imágenes y contenido optimizado para SEO.
 - HTML5
 - CSS3
 - JavaScript
+- Flexbox
+- Grid
 
 ## Autor
 César Aular — [LinkedIn](https://www.linkedin.com/in/tuusuario) | [Portafolio](https://tuportafolio.com)
