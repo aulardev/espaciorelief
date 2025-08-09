@@ -9,7 +9,7 @@ Diseño responsive adaptable a móviles, tablets y escritorio.
 
 Navegación clara y optimizada para la experiencia del usuario.
 
-Integración de imágenes y contenido optimizado para SEO.
+Integración de imágenes y contenido optimizado para SEO
 
 ![Vista previa del header](./assets/captura-header.png)
 
