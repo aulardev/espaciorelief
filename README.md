@@ -11,7 +11,7 @@ Navegación clara y optimizada para la experiencia del usuario.
 
 Integración de imágenes y contenido optimizado para SEO.
 
-![Vista previa del header](./assets/header-captura.png)
+![Vista previa del header](./assets/captura-header.png)
 
 ## Tecnologías utilizadas
 
